@@ -1,5 +1,5 @@
 {
-    "name": "smuuf/php-peg",
+    "name": "actengage/php-peg",
     "description": "PEG parser generator for PHP.",
     "keywords": [
         "PEG",
